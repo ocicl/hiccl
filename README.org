@@ -4,6 +4,6 @@ Hiccup HTML generator for Common Lisp
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/garlic0x1/hiccl.git |
-| commit  | 5a863a2                                    |
+| commit  | 0989c26                                    |
 | systems | hiccl                                      |
 |---------+--------------------------------------------|
